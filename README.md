@@ -1,2 +1,2 @@
-# polkadot-ui
-Simple UI for Polkadot
+# tetcoin-ui
+Simple UI for Tetcoin
